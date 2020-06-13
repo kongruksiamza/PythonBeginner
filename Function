@@ -1,0 +1,10 @@
+ฟังก์ชั่นคืออะไร / ตัวอย่างฟังก์ชั่น
+การสร้างฟังก์ชั่น
+การเรียกฟังก์ชั่น
+Global Variable / Local Variable
+Arguments / Parameter
+2 Arguments
+Arbitrary Arguments *args
+Keywords Parameter
+Default Parameter
+Arbitrary Arguments **kwargs
