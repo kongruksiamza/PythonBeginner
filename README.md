@@ -2,7 +2,7 @@
 
 By KongRuksiam Official
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
-- [Playlist เนื้อหา Python](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN)
+- [Playlist เนื้อหา Python เบื้องต้น](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN)
 
 ## Phase 1
 
