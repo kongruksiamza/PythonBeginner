@@ -10,8 +10,8 @@ By KongRuksiam Official
 โครงสร้างควบคุม แบบกำหนดเงื่อนไข  , การทำซ้ำ ,การจัดการกลุ่มข้อความ (String) 
 ตลอดจนการเขียนโปรแกรมแก้โจทย์ปัญหาต่างๆ  
 
-- [https://www.youtube.com/watch?v=h85EQnOryg8&list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN&index=4](ดาวน์โหลดและติดตั้ง Python)
-- [https://www.youtube.com/watch?v=Mh3e4uqEvu8&list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN&index=5](ติดตั้ง Visual Studio Code)
+- [ดาวน์โหลดและติดตั้ง Python](https://www.youtube.com/watch?v=h85EQnOryg8&list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN&index=4)
+- [ติดตั้ง Visual Studio Code](https://www.youtube.com/watch?v=Mh3e4uqEvu8&list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN&index=5)
 
 ## Phase 2
 รู้จักกับโครงสร้างข้อมูลแบบ List , Set , Tuple การสร้างฟังก์ชั่น (Function)
