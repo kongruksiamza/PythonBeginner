@@ -3,6 +3,7 @@
 By KongRuksiam Official
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
 - [วิดีโอสอนเนื้อหา Python เบื้องต้น 100 ตอน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBwqJysYnoEKWXUvqusJpgN)
+- [คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
 
 ## สารบัญเนื้อหา Phase 1
 
