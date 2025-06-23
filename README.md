@@ -1,6 +1,6 @@
 <div id="badges" align="center">
 
-  [![Youtube KongRuksiam Tutorial](https://youtube-stats-card.vercel.app/api?channelid=UCB6eDEzpqpiaZnDMzoje57Q&layout=extruded&theme=dark)](https://www.youtube.com/@KongRuksiamTutorial)
+  [![Youtube KongRuksiam Tutorial](https://youtube-stats-card.vercel.app/api?channelid=UCB6eDEzpqpiaZnDMzoje57Q&layout=extruded)](https://www.youtube.com/@KongRuksiamTutorial)
 
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
